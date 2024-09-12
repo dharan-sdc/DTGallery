@@ -182,7 +182,7 @@ body {
 
 @media (min-width: 768px) {
   .main-nav .nav-links {
-    float: right;
+    /* float: right; */
     display: inline-block;
     background: transparent;
   }
@@ -1107,9 +1107,11 @@ body {
 .gallery {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+  /* display: inline-g; */
+  /* flex-wrap: wrap; */
   min-height: 300px;
 }
 
