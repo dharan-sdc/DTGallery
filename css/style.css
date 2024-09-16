@@ -1,15 +1,3 @@
-/*  
-  Author : Elias Abdurrahman
-  Date   : March 3 2019
-
-  @codingWithElias
-  ---------------------
-  youtube.com/codingWithElias
-  fb.me/codingWithElias
-  t.me/codingWithElias
-*/
-
-
 * {
   padding: 0px;
   margin: 0px;
@@ -220,7 +208,7 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: url("../img/home-bg-1.jpg") #1D1D1D;
+  background: url("../img/wall-home.jpg") #1D1D1D;
   background-size: cover;
   background-position: center;
   max-height: 400px;
@@ -263,7 +251,8 @@ body {
 }
 
 .main-banner-about h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat',
+    sans-serif;
   color: #fff;
   font-size: 30px;
   text-align: center;
@@ -277,11 +266,11 @@ body {
 }
 
 .main-banner-about h2 {
-  font-family: 'Pacifico', cursive;
+  /* font-family: 'Pacifico', cursive; */
   color: #ccc;
   text-align: center;
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 700;
 }
 
 @media (min-width: 768px) {
@@ -330,7 +319,7 @@ body {
 }
 
 .main-section-about .about h1 {
-  font-family: 'Pacifico', cursive;
+  font-family: cursive;
   text-shadow: 2px 2px 6px #ccc;
   color: #aaa;
   font-size: 26px;
@@ -347,8 +336,8 @@ body {
   margin: 0px auto;
   font-size: 20px;
   line-height: 1.8em;
-  font-family: 'Roboto', sans-serif;
-  color: #444;
+  font-family: cursive;
+  color: #5d5050;
   padding: 10px 5%;
   font-weight: 100;
 }
@@ -373,7 +362,7 @@ body {
 }
 
 .main-section-about .info .my-image {
-  background: url("../img/techWorld.jpg") #eee;
+  background: url("../img/110.png") #9b9b9b;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -448,7 +437,7 @@ body {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  margin: 20px 0px;
+  margin: 5px 0px;
 }
 
 .main-section-about .info .social a {
@@ -460,6 +449,7 @@ body {
 
 .main-section-about .info .social a img {
   width: 40px;
+  color: #555;
 }
 
 .main-section-about .info .social a:hover {
@@ -554,7 +544,7 @@ body {
 }
 
 .main-section-about .list-two {
-  background: url("../img/Picsart_23-10-15_18-58-16-641-01.jpeg") #1D1D1D;
+  background: url("../img/home-logo.png") #1D1D1D;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -637,6 +627,7 @@ body {
   margin-top: 150px;
 }
 
+/* 
 .main-banner-contact {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -856,8 +847,8 @@ body {
 
 .main-section .contact .row button:hover {
   opacity: .7;
-}
-
+} */
+/* 
 .main-section .social {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -883,7 +874,7 @@ body {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
-}
+} */
 
 .main-banner-pot {
   display: -webkit-box;
@@ -899,7 +890,7 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: url("../img/20240515_121727-01.jpeg") #aeadad;
+  background: url("../img/portflio-1.png") #aeadad;
   background-size: cover;
   background-position: bottom;
   max-height: 400px;
@@ -1155,15 +1146,15 @@ body {
 }
 
 .main-footer {
-  margin-top: 100px;
+  margin-top: 0px;
   width: 100%;
-  background: #333;
+  background: #386fae;
   padding: 15px;
 }
 
 .main-footer h4 {
   text-align: center;
-  color: #aaa;
-  font-family: 'Roboto', sans-serif;
+  color: #ededed;
+  font-family: sans-serif;
   font-weight: 200;
 }
