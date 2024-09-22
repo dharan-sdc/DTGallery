@@ -177,8 +177,8 @@ mainData = [
   {
     id: 27,
     type: "Portrait",
-    src: 'img/port/p11.jpg',
-    tum: 'img/port/p11.jpg',
+    src: 'img/port/p10.1.jpg',
+    tum: 'img/port/p10.1.jpg',
     cp: "Parker a Identity"
   },
   {
