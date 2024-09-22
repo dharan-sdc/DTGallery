@@ -64,21 +64,21 @@ mainData = [
   }, {
     id: 10,
     type: "Stuff",
-    src: 'img/personal/s5.jpg',
-    tum: 'img/personal/s5.jpg',
+    src: 'img/stuffx/s5.jpg',
+    tum: 'img/stuffx/s5.jpg',
     cp: "Alone with Rain"
   }, {
     id: 11,
     type: "Stuff",
-    src: 'img/personal/s4.jpg',
-    tum: 'img/personal/s4.jpg',
+    src: 'img/stuffx/s4.jpg',
+    tum: 'img/stuffx/s4.jpg',
     cp: "Beauti of Time"
   },
   {
     id: 12,
     type: "Stuff",
-    src: 'img/personal/s6.jpg',
-    tum: 'img/personal/s6.jpg',
+    src: 'img/stuffx/s6.jpg',
+    tum: 'img/stuffx/s6.jpg',
     cp: "Cut out of Leaf"
   },
   {
@@ -211,21 +211,21 @@ mainData = [
   }, {
     id: 32,
     type: "Stuff",
-    src: 'img/personal/s2.jpeg',
-    tum: 'img/personal/s2.jpeg',
+    src: 'img/stuffx/s2.jpeg',
+    tum: 'img/stuffx/s2.jpeg',
     cp: "Traveling Memories"
   }, {
     id: 34,
     type: "Stuff",
-    src: 'img/personal/s7.jpg',
-    tum: 'img/personal/s7.jpg',
+    src: 'img/stuffx/s7.jpg',
+    tum: 'img/stuffx/s7.jpg',
     cp: "Always peace in Alone"
   },
   {
     id: 35,
     type: "Stuff",
-    src: 'img/personal/s3.jpg',
-    tum: 'img/personal/s3.jpg',
+    src: 'img/stuffx/s3.jpg',
+    tum: 'img/stuffx/s3.jpg',
     cp: "Touch a leaf"
   },
   {
@@ -358,21 +358,21 @@ mainData = [
   }, {
     id: 54,
     type: "Stuff",
-    src: 'img/personal/s13.jpg',
-    tum: 'img/personal/s13.jpg',
+    src: 'img/stuffx/s13.jpg',
+    tum: 'img/stuffx/s13.jpg',
     cp: "Spider Leaf"
   }, {
     id: 55,
     type: "Stuff",
-    src: 'img/personal/s12.jpg',
-    tum: 'img/personal/s12.jpg',
+    src: 'img/stuffx/s12.jpg',
+    tum: 'img/stuffx/s12.jpg',
     cp: "Loneling Travel"
   },
   {
     id: 56,
     type: "Stuff",
-    src: 'img/personal/s1.jpg',
-    tum: 'img/personal/s1.jpg',
+    src: 'img/stuffx/s1.jpg',
+    tum: 'img/stuffx/s1.jpg',
     cp: "Create a Career"
   },
   {
@@ -505,21 +505,21 @@ mainData = [
   }, {
     id: 75,
     type: "Stuff",
-    src: 'img/personal/s9.jpg',
-    tum: 'img/personal/s9.jpg',
+    src: 'img/stuffx/s9.jpg',
+    tum: 'img/stuffx/s9.jpg',
     cp: "Memories Hands"
   }, {
     id: 76,
     type: "Stuff",
-    src: 'img/personal/s8.jpg',
-    tum: 'img/personal/s8.jpg',
+    src: 'img/stuffx/s8.jpg',
+    tum: 'img/stuffx/s8.jpg',
     cp: "Signature of Poster"
   },
   {
     id: 77,
     type: "Stuff",
-    src: 'img/personal/s11.jpg',
-    tum: 'img/personal/s11.jpg',
+    src: 'img/stuffx/s11.jpg',
+    tum: 'img/stuffx/s11.jpg',
     cp: "Near Prince"
   },
   {
@@ -841,8 +841,8 @@ mainData = [
   }, {
     id: 125,
     type: "Stuff",
-    src: 'img/personal/s10.jpg',
-    tum: 'img/personal/s10.jpg',
+    src: 'img/stuffx/s10.jpg',
+    tum: 'img/stuffx/s10.jpg',
     cp: "Ring of crush"
   }
 
