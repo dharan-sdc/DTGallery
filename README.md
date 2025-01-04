@@ -26,11 +26,11 @@ Here’s a preview of what DTGallery looks like:
 To run DTGallery locally:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/dharan-sdc/DTGallery.git
+   
+   ```git clone https://github.com/dharan-sdc/DTGallery.git```
 2.**Navigate into the project folder:**
-  ```cd DTGallery
-3.**Open the index.html file** in your preferred web browser to see the site in action.
+   ```cd DTGallery```
+3.**Open the index.html file in your preferred web browser to see the site in action.**
 
   -If you want to preview it live on a local server, consider using tools like Live Server.
 
@@ -40,10 +40,10 @@ To run DTGallery locally:
 
 ## Technologies Used
 
-HTML5: Semantic structure and markup for the website.
-CSS3: Styling and design for a modern, responsive layout.
-JavaScript: Adds interactivity, such as image enlargement and smooth transitions.
-SCSS: Used for styling to create nested stylesheets and improve maintainability.
+-**HTML5**: Semantic structure and markup for the website.
+-**CSS3**: Styling and design for a modern, responsive layout.
+-**JavaScript**: Adds interactivity, such as image enlargement and smooth transitions.
+-**SCSS**: Used for styling to create nested stylesheets and improve maintainability.
 
 ## Contribution Guidelines
 DTGallery is an open-source project, and we welcome contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit pull requests.
