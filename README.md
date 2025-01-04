@@ -28,8 +28,11 @@ To run DTGallery locally:
 1. **Clone the repository**:
    
    ```git clone https://github.com/dharan-sdc/DTGallery.git```
+   
 2.**Navigate into the project folder:**
+
    ```cd DTGallery```
+   
 3.**Open the index.html file in your preferred web browser to see the site in action.**
 
   -If you want to preview it live on a local server, consider using tools like Live Server.
@@ -48,19 +51,21 @@ To run DTGallery locally:
 ## Contribution Guidelines
 DTGallery is an open-source project, and we welcome contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit pull requests.
 
-How to contribute:
+## How to contribute:
 Fork the repository.
-Create a new branch for your feature (git checkout -b feature-name).
-Make changes and commit them (git commit -m 'Add feature').
-Push to your fork (git push origin feature-name).
-Open a pull request with a description of the changes you've made.
-If you find any bugs or issues, please open an issue on GitHub.
+1.Create a new branch for your feature (git checkout -b feature-name).
+2.Make changes and commit them (git commit -m 'Add feature').
+3.Push to your fork (git push origin feature-name).
+4.Open a pull request with a description of the changes you've made.
+5.If you find any bugs or issues, please open an issue on GitHub.
 
-License
-DTGallery is open-source software licensed under the MIT License.
+## Acknowledgments
 
-Acknowledgments
-Special thanks to the contributors of the libraries and frameworks used in this project.
-Photography and personal content by Thulasidharan.
-About Me
+-Special thanks to the contributors of the libraries and frameworks used in this project.
+-Photography and personal content by **Thulasidharan**.
+
+## About Me
 Hi! I’m Thulasidharan, a passionate photographer who believes that photography is not just about capturing moments but about preserving emotions and stories. I love capturing the beauty of everyday life, whether it’s a stunning sunset, a candid portrait, or an intricate architectural detail. I hope my photos resonate with you, and I invite you to explore my work through the galleries on this platform.
+
+## License
+DTGallery is open-source software licensed under the MIT License.
