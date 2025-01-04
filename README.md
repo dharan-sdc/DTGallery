@@ -24,8 +24,7 @@ Here’s a preview of what DTGallery looks like:
 ## Installation
 
 To run DTGallery locally:
-
-- 1. **Clone the repository**:
+- 1.**Clone the repository**:
 
    ```git clone https://github.com/dharan-sdc/DTGallery.git```
    
@@ -44,26 +43,26 @@ To run DTGallery locally:
 
 ## Technologies Used
 
--**HTML5**: Semantic structure and markup for the website.
--**CSS3**: Styling and design for a modern, responsive layout.
--**JavaScript**: Adds interactivity, such as image enlargement and smooth transitions.
--**SCSS**: Used for styling to create nested stylesheets and improve maintainability.
+- **HTML5**: Semantic structure and markup for the website.
+- **CSS3**: Styling and design for a modern, responsive layout.
+- **JavaScript**: Adds interactivity, such as image enlargement and smooth transitions.
+- **SCSS**: Used for styling to create nested stylesheets and improve maintainability.
 
 ## Contribution Guidelines
 DTGallery is an open-source project, and we welcome contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit pull requests.
 
 ## How to contribute:
 Fork the repository.
-1.Create a new branch for your feature (git checkout -b feature-name).
-2.Make changes and commit them (git commit -m 'Add feature').
-3.Push to your fork (git push origin feature-name).
-4.Open a pull request with a description of the changes you've made.
-5.If you find any bugs or issues, please open an issue on GitHub.
+- 1.Create a new branch for your feature (git checkout -b feature-name).
+- 2.Make changes and commit them (git commit -m 'Add feature').
+- 3.Push to your fork (git push origin feature-name).
+- 4.Open a pull request with a description of the changes you've made.
+- 5.If you find any bugs or issues, please open an issue on GitHub.
 
 ## Acknowledgments
 
--Special thanks to the contributors of the libraries and frameworks used in this project.
--Photography and personal content by **Thulasidharan**.
+- Special thanks to the contributors of the libraries and frameworks used in this project.
+- Photography and personal content by **Thulasidharan**.
 
 ## About Me
 Hi! I’m Thulasidharan, a passionate photographer who believes that photography is not just about capturing moments but about preserving emotions and stories. I love capturing the beauty of everyday life, whether it’s a stunning sunset, a candid portrait, or an intricate architectural detail. I hope my photos resonate with you, and I invite you to explore my work through the galleries on this platform.
