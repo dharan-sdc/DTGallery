@@ -24,18 +24,23 @@ Here’s a preview of what DTGallery looks like:
 ## Installation
 
 To run DTGallery locally:
-1. **Clone the repository**:
+
+- 1. **Clone the repository**:
+
    ```git clone https://github.com/dharan-sdc/DTGallery.git```
    
-2.**Navigate into the project folder:**
+- 2.**Navigate into the project folder**:
+
    ```cd DTGallery```
    
-3.**Open the index.html file in your preferred web browser to see the site in action.**
+- 3.**Open the index.html file in your preferred web browser to see the site in action.**
+
    -If you want to preview it live on a local server, consider using tools like Live Server.
 
-**4.Customization:**
-  -Change the images in the img/ folder with your own photos.
-  -Update the content in the portfolio.html and index.html files to match your personal information and portfolio.
+- 4.**Customization:**
+
+  - Change the images in the img/ folder with your own photos.
+  - Update the content in the portfolio.html and index.html files to match your personal information and portfolio.
 
 ## Technologies Used
 
